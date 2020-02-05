@@ -1,0 +1,23 @@
+.wrapper {
+    margin: 0;
+    padding: 0;
+    background: rgb(15, 15, 112);
+}
+
+.logo {
+    width: 150%;
+    text-align: center;
+}
+
+
+.dropdown-toggle::after {
+    content:'';
+    display: none;
+    visibility: hidden;
+}
+
+.justify-content-end {
+    text-align: end;
+    align-items: flex-end;
+    
+}
