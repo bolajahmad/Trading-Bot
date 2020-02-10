@@ -1,0 +1,27 @@
+#content, .main-content {
+    position: absolute;
+    top: 15%;
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    background: none;
+    height: auto;
+} 
+
+.wallet {
+    border: 0.1em solid rgb(32, 72, 148);
+    border-radius: 2px 2px;
+    background: rgb(32, 72, 148);
+    float: right;
+    width: auto;
+    padding: 2px;
+    color: whitesmoke;
+}
+
+.card {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60%;
+    color: white;
+    width: auto;
+    margin: 1em 2em;
+}
