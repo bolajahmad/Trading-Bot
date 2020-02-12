@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Trading-Bot/static/css/main.d644fcae.chunk.css",
+    "main.js": "/Trading-Bot/static/js/main.4aea5ede.chunk.js",
+    "main.js.map": "/Trading-Bot/static/js/main.4aea5ede.chunk.js.map",
+    "runtime-main.js": "/Trading-Bot/static/js/runtime-main.5ad1bdb0.js",
+    "runtime-main.js.map": "/Trading-Bot/static/js/runtime-main.5ad1bdb0.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Trading-Bot/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.be08112c.chunk.js": "/Trading-Bot/static/js/2.be08112c.chunk.js",
+    "static/js/2.be08112c.chunk.js.map": "/Trading-Bot/static/js/2.be08112c.chunk.js.map",
+    "index.html": "/Trading-Bot/index.html",
+    "precache-manifest.c5cff220cb7cdc5b269f82a6334fd38d.js": "/Trading-Bot/precache-manifest.c5cff220cb7cdc5b269f82a6334fd38d.js",
+    "service-worker.js": "/Trading-Bot/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Trading-Bot/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.d644fcae.chunk.css.map": "/Trading-Bot/static/css/main.d644fcae.chunk.css.map",
+    "static/js/2.be08112c.chunk.js.LICENSE": "/Trading-Bot/static/js/2.be08112c.chunk.js.LICENSE",
+    "static/media/Augur.png": "/Trading-Bot/static/media/Augur.cecfa06f.png",
+    "static/media/Bitcoin.jpg": "/Trading-Bot/static/media/Bitcoin.8f1317ba.jpg",
+    "static/media/Cardano.png": "/Trading-Bot/static/media/Cardano.dccce16b.png",
+    "static/media/Ethereum.png": "/Trading-Bot/static/media/Ethereum.9238551e.png",
+    "static/media/Litecoin.png": "/Trading-Bot/static/media/Litecoin.5133c6fe.png",
+    "static/media/Qtum.jpg": "/Trading-Bot/static/media/Qtum.f53936a0.jpg",
+    "static/media/Siacoin.png": "/Trading-Bot/static/media/Siacoin.06192402.png",
+    "static/media/Tron.png": "/Trading-Bot/static/media/Tron.6ec6dc22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ad1bdb0.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.be08112c.chunk.js",
+    "static/css/main.d644fcae.chunk.css",
+    "static/js/main.4aea5ede.chunk.js"
+  ]
+}
